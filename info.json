@@ -1,0 +1,10 @@
+{
+	"provider": ["IBM"], 
+	"name":  "DOcloud Trucking Java sample",
+	"model": [ "OPL-CPLEX" ],
+	"development": [ "Java" ],
+	"category": [ {"APPLICATION":["Desktop Application"]} ],
+	"industry": [ "Transportation" ],
+	"abstract": "A desktop application that shows how to solve a simple transportation optimization problem. The application demonstrates how to integrate the IBM DOcloud Java client in a simple Java standalone application and stream data and results back and forth."
+}
+
